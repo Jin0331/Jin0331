@@ -1,10 +1,11 @@
 ### <div align="center">I'm Jinwoo Lee, a Bioinformatics Engineer 👨‍💻 working remotely since 2021 🚀</div>  
   
+<br>
 
 - 🔭 I’m currently working on [WMBIO](http://www.wmbio.co/kr/index.php)  
   
 
-- 🌱 I’m currently learning Hadoop Eco-system  
+- 🌱 I’m currently learning Hadoop Eco-system, Apache Kafka and Airflow
   
 
 <br/>  
