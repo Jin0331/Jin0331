@@ -2,7 +2,7 @@
   
 <br>
 
-- 🔭 I’m currently working on [WMBIO](http://www.wmbio.co/kr/index.php)  
+- 🔭 I’m currently working on Pharmaceutical company
   
 
 - 🌱 I’m currently learning Hadoop Eco-system, Apache Kafka and Airflow
