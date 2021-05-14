@@ -1,21 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+### <div align="center">I'm Jinwoo Lee, a Bioinformatics Engineer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+- 🔭 I’m currently working on [WMBIO](http://www.wmbio.co/kr/index.php)  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🌱 I’m currently learning Hadoop Eco-system  
   
 
 <br/>  
@@ -58,7 +47,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jin0331&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
