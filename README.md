@@ -1,4 +1,4 @@
-### <div align="center">I'm Jinwoo Lee, a Bioinformatics Data Engineer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Jinwoo Lee, a Bioinformatics Engineer 👨‍💻 working remotely since 2021 🚀</div>  
   
 <br>
 
