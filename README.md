@@ -9,7 +9,7 @@
 <br/>  
 
 
-<h1>📚 STACKS</h1>
+<h3>📚 STACKS</h3>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -47,7 +47,7 @@
   
 </div>
 
-<h1>📚 STATS</h1>
+<h3>📚 STATS</h3>
 
 ![Jin0331's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin0331&show_icons=true&theme=graywhite)
 
