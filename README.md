@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Pharmaceutical company
   
 
-- 🌱 I’m currently learning Hadoop Eco-system, Apache Kafka and Airflow
+- 🌱 I’m currently learning Hadoop Eco-system, Apache Kafka and Airflow!
   
 
 <br/>  
