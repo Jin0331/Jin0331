@@ -1,8 +1,8 @@
-### <div align="center"><h2>👨‍💻 I'm Jinwoo Lee, a Bioinformatics Engineer since 2021 🚀</h2></div>  
+### <div align="center"><h2>👨‍💻 I'm Jinwoo Lee, a Bioinformatician since 2021 🚀</h2></div>  
   
 <br>
 
-<h2>🔭 I’m currently working on Pharmaceutical company</h2>
+<h2>🔭 I’m currently working on Bio-IT company, Pipeline development team.</h2>
 <h2>🌱 I’m currently learning Hadoop Eco-system, Apache Kafka and Airflow!<h2>
   
 
