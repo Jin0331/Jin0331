@@ -3,8 +3,8 @@
 <br>
 
 <h2>🔭 I’m currently working on Bio-IT company, Pipeline development team.</h2>
+  * Research Result : https://drive.google.com/drive/folders/1-J1Ch4DW32IJyuItdHpFJAEhQv1A2YoU?usp=drive_link </h2>
  
-
 <br/>  
 
 
