@@ -1,11 +1,11 @@
-### <div align="center"><h2>👨‍💻 I'm Jinwoo Lee, a Bioinformatician since 2021 🚀</h2></div>  
+### <div align="center"><h2>👨‍💻 I'm Jinwoo Lee and I've been a Bioinformatician(Pipeline developer) until 2023.<br> I'm currently working towards becoming an IOS developer. 🚀</h2></div>  
   
 <br>
 
-<h2>🔭 I’m currently working on Bio-IT company, Pipeline development team.</h2>
-  * Research Result : https://drive.google.com/drive/folders/1-J1Ch4DW32IJyuItdHpFJAEhQv1A2YoU?usp=drive_link </h2>
+<h2>🔭 Past research :https://drive.google.com/drive/folders/1-J1Ch4DW32IJyuItdHpFJAEhQv1A2YoU?usp=drive_link </h2>
  
 <br/>  
+
 
 
 <h3>📚 STACKS</h3>
@@ -14,31 +14,23 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
   <img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/shell-FFD500?style=for-the-badge&logo=shell&logoColor=white">
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+  
   <br>
   
   <img src="https://img.shields.io/badge/apache hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/apache airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">  
+  <img src="https://img.shields.io/badge/apache spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/snakemake-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white">
+  <img src="https://img.shields.io/badge/slurm-0133AD?style=for-the-badge&logo=cardano&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">  
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/apache hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=white">  
   <br>
-  
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> 
-  <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/amazone web services(AWS)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/google cloud plaform(GCP)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> 
-  <img src="https://img.shields.io/badge/naver cloud plaform-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
-  <br>
-  
+    
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">  
