@@ -30,7 +30,13 @@
 </div>
 
 <h3>📚 STATS</h3>
-
+  
 ![Jin0331's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin0331&show_icons=true&theme=graywhite)
+
+<br/>  
+
+<h3>📚 VELOG </h3>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sempre813)](https://github.com/eungyeole/velog-readme-stats)
 
 <br/>  
