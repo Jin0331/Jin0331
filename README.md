@@ -37,6 +37,6 @@
 
 <h3>📚 VELOG </h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sempre813)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sempre813)](https://velog.io/@sempre813/posts)
 
 <br/>  
