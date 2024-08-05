@@ -1,4 +1,4 @@
-### <div align="center"><h3>👨‍💻 I'm Jinwoo Lee.<br>I worked as a Bioinformatician(Data Engineer) until 2023.<br>🔭 [RESEARCH HISTORY](https://drive.google.com/drive/folders/1-J1Ch4DW32IJyuItdHpFJAEhQv1A2YoU?usp=drive_link)<br><br> I'm currently working towards becoming an iOS developer. 🚀</h2></div>  
+### <div align="center"><h3>👨‍💻 I'm Jinwoo Lee.<br>I worked as a Bioinformatician(Data Engineer) until 2023.<br>🔭 [RESEARCH HISTORY](https://drive.google.com/drive/folders/1-J1Ch4DW32IJyuItdHpFJAEhQv1A2YoU?usp=drive_link)<br><br> I'm currently an iOS developer. 🚀</h2></div>  
   
 <br>
 
