@@ -33,8 +33,3 @@
   
 ![Jin0331's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin0331&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin0331&langs_count=10&layout=compact&theme=light)](https://github.com/Jin0331/)﻿
 ---|---
-
-
-<h3>📚 VELOG </h3>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sempre813)](https://velog.io/@sempre813/posts)
