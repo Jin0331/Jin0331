@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/apache hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/snakemake-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white">
-  <img src="https://img.shields.io/badge/slurm-0133AD?style=for-the-badge&logo=cardano&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">  
